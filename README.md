@@ -49,12 +49,12 @@ To deploy this project run
 
 
 ## 🚀 About Me
-I'm a cloud 
+Enthusiastic cloud practitioner with a passion for AWS projects. I love learning new things and sharing my knowledge with others. I am always looking for new and innovative ways to use AWS to solve real-world problems.
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](www.linkedin.com/in/mwanahamisi-gakweli-432a9621a)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
